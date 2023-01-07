@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/ncKnfqC" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/Fwd0JkV/Portada-Git.jpg" align="center" style="width: 100%" />
 </div>  
   
 
