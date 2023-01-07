@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Soy Malena Fresco, desarrolladora web Full Stack 👾 Amante del arte y la programacion </div>  
+### <div align="center">Soy Malena Fresco, desarrolladora web Full Stack 👾 Amante del arte y la programación. Hace un año me encuentro estudiando desarrollo web y  éste ultimo cuatrimestre me dediqué a cursar el bootcamp de desarrollo web full stack de Henry </div>  
   
 
-- 🔭OPEN TO WORK!  
+- 🔭OPEN TO WORK!!
   
 
 - 🌱 Me encuentro estudiando React Native y Mongo db  
