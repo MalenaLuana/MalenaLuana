@@ -9,13 +9,13 @@
 - 🔭OPEN TO WORK!!  
   
 
-- 🌱Me encuentro estudiando React Native y Mongo db  
+- 🌱Me encuentro estudiando React Native
+ 
+
+-  😻 El Front-end es lo que más disfruto hacer, junto con el diseño y animaciones. 
   
 
--   😻 El Front-end es lo que más disfruto hacer  
-  
 
-- 😜 En mis tiempos libres me gusta jugar videojuegos y crear cosas  
   
 
 <br/>  
