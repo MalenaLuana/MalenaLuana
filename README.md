@@ -3,14 +3,11 @@
 </div>  
   
 
-### <div align="center">Soy Malena Fresco, desarrolladora web Full Stack 👾 Amante del arte y la programación. Hace un año me encuentro estudiando desarrollo web y éste ultimo cuatrimestre me dediqué a cursar el bootcamp de desarrollo web full stack de Henry</div>  
+### <div align="center">Soy Malena Fresco, desarrolladora web Full Stack 👾 Hace más de un año que estoy estudiando programación y ahora lo ejerzo como profesión. Creo que más que un hobbye es un estilo de vida y una forma de analizar las cosas.
+Mi github siempre queda desactualizado, podes seguirme en linkedin que ahi subo cosas más seguido.
   
 
-- 🔭OPEN TO WORK!!  
-  
-
-- 🌱Me encuentro estudiando React Native
- 
+- 🔭Actualmente trabajo en una emrpesa de tecnología y además estoy creando mi propio proyecto que en algún momento podran ver 👌
 
 -  😻 El Front-end es lo que más disfruto hacer, junto con el diseño y animaciones. 
   
